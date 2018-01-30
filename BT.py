@@ -1,9 +1,5 @@
-from matplotlib import pyplot as plt
-import sys
-import seaborn as sns
 import pandas as pd
 import numpy as np
-from scipy import optimize
 import choix
 
 df = pd.read_csv("nba1617.csv")
